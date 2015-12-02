@@ -2,9 +2,7 @@
 
 ##Overview:
 Chess on Ruby demonstrates class inheritances and DRY coding
-
 to minimize redundant code and easy accessibility within a
-
 team of different developers.
 
 
