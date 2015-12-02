@@ -11,4 +11,4 @@ team of different developers.
   navigate to unzipped 'chess-master' folder and run:
   ruby game.rb
 3) user controls are instructed within the game
-4) increase terminal font size for better visuals!
+4) increase terminal font size for better visuals
